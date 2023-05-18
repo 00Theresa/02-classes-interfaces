@@ -7,5 +7,6 @@ package ohm.softa.a02;
 public class SimpleListImpl implements SimpleList {
 
 	// TODO: Implement the required methods.
+    int testGIT = 0;
 
 }
